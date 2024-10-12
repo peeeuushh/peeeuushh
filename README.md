@@ -1,5 +1,5 @@
-# Hi 👋  
-I'm [Your Name], a **computer science graduate** with a passion for learning and exploring new technologies! 🚀  
+  # Hi 👋  
+I'm Peeyush Yadav, a **computer science graduate** with a passion for learning and exploring new technologies! 🚀  
 I'm curious about all things tech, especially **AI/ML**, **full-stack development**, and **cloud computing**. I enjoy tackling challenges in **data structures**, **object-oriented programming**, and **problem-solving**.
 
 
